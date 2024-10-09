@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.9c10d06f.js",
-    "index.html": "/index.html"
+    "main.js": "./static/js/main.9c10d06f.js",
+    "index.html": "./index.html"
   },
   "entrypoints": [
     "static/js/main.9c10d06f.js"
